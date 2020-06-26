@@ -1,5 +1,5 @@
 ---
-title: TDD(Test-Driven Development)_작성중
+title: TDD(Test-Driven Development)
 date: "2020-06-09T18:09:03.284Z"
 description: "TDD(Test-Driven Development) 정의 및 소개"
 ---
