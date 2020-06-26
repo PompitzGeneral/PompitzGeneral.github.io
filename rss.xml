@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Dev Record]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://pompitzgeneral.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 09 Jun 2020 09:45:10 GMT</lastBuildDate><item><title><![CDATA[TDD(Test-Driven Development)_작성중]]></title><description><![CDATA[테스트 주도 개발(TDD)은 설계 이후 구현 및 TestCase를 작성하는 기존의 개발 프로세스와 다르게, TestCase를 먼저 작성하여 UnitTest…]]></description><link>https://pompitzgeneral.github.io/TDD/</link><guid isPermaLink="false">https://pompitzgeneral.github.io/TDD/</guid><pubDate>Tue, 09 Jun 2020 18:09:03 GMT</pubDate><content:encoded>&lt;p&gt;테스트 주도 개발(TDD)은 설계 이후 구현 및 TestCase를 작성하는 기존의 개발 프로세스와 다르게, TestCase를 먼저 작성하여 UnitTest를 시행 한 후 어플리케이션에 해당 코드를 이식하여 개발을 진행하는 개발 방법론이다.&lt;/p&gt;
+&lt;p&gt;
+ &lt;div&gt;1. 테스트 실패&lt;/div&gt;
+ &lt;div&gt;2. 테스트 성공&lt;/div&gt;
+ &lt;div&gt;3. 리팩토링&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;위와 같은 절차로 구성되어있으며 피드백 루프가 빨라 요구사항의 변경에 대하여 기민한 대응이 가능하며, 프로그램 배포 속도 또한 훨씬 빠르게 가져 갈 수 있다.&lt;/p&gt;
+&lt;!-- ![Chinese Salty Egg](./salty_egg.jpg) --&gt;</content:encoded></item></channel></rss>
